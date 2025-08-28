@@ -18,7 +18,7 @@ Cálculo de vida útil y desempeño por porcentajes.
 Generación de gráficas interactivas para análisis visual y toma de decisiones.
   
 - [Encuestas - Área Atención a Clientes](https://github.com/jonathanhrz25/cac)
-#- [Encuestas - Area de Promotoria](https://github.com/jonathanhrz25/promotoria)
+- [Encuestas - Area de Promotoria](https://github.com/jonathanhrz25/promotoria)
 📝 Sistema de Encuestas Interactivas
 Solución personalizada para el levantamiento y análisis de encuestas:
 Formularios responsivos y dinámicos.
